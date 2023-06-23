@@ -2,4 +2,4 @@
 * subtract
 * multiply
 * **square root**
-* ** power**
+* **power**
